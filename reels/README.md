@@ -1,5 +1,7 @@
 # Макс и Картон — первый пилот Reels
 
+[Скачать видео MP4 отдельно](https://github.com/pluxtik1992-blip/1992/raw/refs/heads/reels-download/reels/max-karton-01.mp4)
+
 [Скачать ZIP с видео, обложкой и текстом публикации](https://github.com/pluxtik1992-blip/1992/raw/refs/heads/reels-download/reels/max-karton-01.zip)
 
 В архиве:
